@@ -9,7 +9,7 @@ public class HelloController {
     @GetMapping("/hi")
     public String sayHi(){
 
-        System.out.println("hello word 12345");
+        System.out.println("hello word 123456789");
         return "Helllo Spring Boot aa";
     }
 }
