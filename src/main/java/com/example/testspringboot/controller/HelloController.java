@@ -11,7 +11,7 @@ public class HelloController {
         System.out.println("java");
         this.test();
         System.out.println("hello word");
-        return "Helllo Spring Boot aa";
+        return "Helllo Spring Boot aaa";
     }
 
     private String test(){
